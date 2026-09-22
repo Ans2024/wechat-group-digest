@@ -1,0 +1,11 @@
+WeChat Group Digest
+Copyright 2026 Ans2024
+
+This project includes adaptations of and references to:
+- erbanku/weixin-cli, commit 08af894594b4afd468e23e17dbd783f15403f13b (Apache-2.0).
+- fanyuantaier/wechatauto-replica, commit 492a8fb70b95865613d6d8d9740323233dbfa197 (Apache-2.0).
+
+Original code remains copyright of its respective contributors.
+Modifications include read-only account-scoped extraction, in-memory handling,
+authenticated page decryption, independent committed WAL validation, and report rendering.
+See THIRD_PARTY.md for file-level provenance and changes.

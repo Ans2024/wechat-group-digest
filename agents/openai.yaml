@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信群聊日报"
+  short_description: "读取本地微信群记录，完整总结并生成可分享的中文长图与离线网页版"
+  default_prompt: "使用 $wechat-group-digest 读取我指定微信群最近 24 小时的本地已同步记录，生成带来源的 PNG 长图、离线 HTML 和 Markdown 总结。"

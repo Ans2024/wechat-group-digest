@@ -1,0 +1,13 @@
+.venv/
+.tmp/
+outputs/
+__pycache__/
+*.pyc
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.log
+.env
+all_keys.json
+keys.json
